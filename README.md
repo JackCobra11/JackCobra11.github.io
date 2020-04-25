@@ -12,7 +12,7 @@
 
 ### Tools
 
-[Win10ActivationTool](https://JackCobra11.github.io/DigitalLicense.exe)
+[Win10ActivationTool](https://JackCobra11.github.io/DigitalLicense.zip)
 
 
 
