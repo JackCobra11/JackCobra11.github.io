@@ -14,6 +14,10 @@
 
 [Win10ActivationTool](https://JackCobra11.github.io/DigitalLicense.zip)
 
+[CSGO autoexec.cfg](https://JackCobra11.github.io/autoexec.cfg)
+
+
+
 
 
 
