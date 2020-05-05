@@ -12,7 +12,7 @@
 
 ### Tools
 
-[Win10ActivationTool](https://JackCobra11.github.io/DigitalLicense.zip)
+[Win10ActivationTool](https://gitee.com/COBRA11/JackCobra/raw/master/DigitalLicense.exe)
 
 [CSGO autoexec.cfg](https://JackCobra11.github.io/autoexec.cfg)
 
