@@ -9,6 +9,8 @@
 
 [Steam](http://steamcommunity.com/id/CNCOBRA11)
 
+[Gitee库](https://gitee.com/COBRA11/JackCobra/blob/master/README.md)
+
 
 ### Tools
 
