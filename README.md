@@ -14,7 +14,7 @@
 
 ### Tools
 
-[CSGO autoexec.cfg](https://JackCobra11.github.io/autoexec.cfg)
+[CSGO autoexec.cfg](https://gitee.com/COBRA11/PULL/raw/master/autoexec.cfg)
 
 [SteamCommunity302](https://gitee.com/COBRA11/PULL/raw/master/steam302.zip)
 
