@@ -14,9 +14,12 @@
 
 ### Tools
 
-[Win10ActivationTool](https://gitee.com/COBRA11/JackCobra/raw/master/DigitalLicense.exe)
-
 [CSGO autoexec.cfg](https://JackCobra11.github.io/autoexec.cfg)
+
+[SteamCommunity302](https://JackCobra11.github.io/steam302.zip)
+
+
+[Win10ActivationTool](https://gitee.com/COBRA11/JackCobra/raw/master/DigitalLicense.exe)
 
 
 
