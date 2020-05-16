@@ -24,7 +24,7 @@
 
 ### 本子
 
-[少女/stay night](https://jackcobra11.github.io/本子/Shoujo_stay_night.html)
+[少女/stay night](https://jackcobra11.github.io/本子/Shoujo_staynight.html)
 
 
 
