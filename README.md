@@ -20,7 +20,7 @@
 
 [Steam Community 302](https://gitee.com/COBRA11/PULL/raw/master/steam302.zip)
 
-[Win10 Activation Tool](https://gitee.com/COBRA11/JackCobra/raw/master/DigitalLicense.exe)
+[Win10 Activation Tool](https://jackcobra11.github.io/DigitalLicense.zip)
 
 ### 本子
 
