@@ -18,6 +18,8 @@
 
 [FL Studio 20 KeyGen R2R](https://gitee.com/COBRA11/JackCobra/raw/master/FLStudio20KeyGenR2R.exe)
 
+[Remove FLStudio License](https://jackcobra11.github.io/REMOVE_FLStudio_License.reg)
+
 [Steam Community 302](https://gitee.com/COBRA11/PULL/raw/master/steam302.zip)
 
 [Win10 Activation Tool](https://jackcobra11.github.io/DigitalLicense.zip)
