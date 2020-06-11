@@ -1,7 +1,8 @@
 # Welcome to COBRA11's GitHub Pages
 
-## 优质大学网络课程免费观看，注册邀请可获得20-30%佣金[AD] 
-https://www.lililili.net?ref=28
+
+### 优质大学网络课程免费观看，注册邀请可获得20-30%佣金[AD] 
+[前往页面](https://www.lililili.net?ref=28)   https://www.lililili.net?ref=28
 
 ## My Channel
 [BiliBili](https://space.bilibili.com/21016018)
