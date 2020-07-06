@@ -1,8 +1,6 @@
 # Welcome to COBRA11's GitHub Pages
 
 
-### 优质大学网络课程免费观看，注册邀请可获得20-30%佣金[AD] 
-[前往页面](https://www.lililili.net?ref=28)   https://www.lililili.net?ref=28
 
 ## My Channel
 [BiliBili](https://space.bilibili.com/21016018)
@@ -15,6 +13,8 @@
 
 [Gitee Repository](https://gitee.com/COBRA11/JackCobra/blob/master/README.md)
 
+### [AD]优质大学网络课程免费观看，注册邀请可获得20-30%佣金[AD] 
+[前往页面](https://www.lililili.net?ref=28)   https://www.lililili.net?ref=28
 
 ### Tools
 
