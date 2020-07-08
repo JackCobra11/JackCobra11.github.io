@@ -22,7 +22,7 @@
 
 [FL Studio 20 KeyGen R2R](https://gitee.com/COBRA11/JackCobra/raw/master/FLStudio20KeyGenR2R.exe)
 
-![Matlab2019a.iso](magnet:?xt=urn:btih:81A0BC6E2CE68DA60DA4A7B9C4FD28CDC4630A9C&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet&dn=Mathworks%20Matlab%20R2019a%20(9.6.0)%20Windows%20x64)
+[Matlab2019a.iso]magnet:?xt=urn:btih:81A0BC6E2CE68DA60DA4A7B9C4FD28CDC4630A9C&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet&dn=Mathworks%20Matlab%20R2019a%20(9.6.0)%20Windows%20x64
 
 [Remove FLStudio License](https://jackcobra11.github.io/REMOVE_FLStudio_License.reg)
 
