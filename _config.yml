@@ -22,16 +22,4 @@ user_email: "2085967975@qq.com" # 侧栏展示的联系方式
 paginate: 5 # 主页展示的博客文章数量
 
 # jekyll 相关配置
-markdown: kramdown
-plugins:
-  - jekyll-feed
-  - jekyll-paginate
-  - jekyll-seo-tag
-  - jekyll-sitemap
-
-sass:
-  style: compressed
-
-future: true
-permalink: /:year/:month/:day/:title
 theme: jekyll-theme-slate
