@@ -28,12 +28,7 @@ plugins:
   - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-sitemap
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - README.md
-  - COPYING
-  - vendor
+
 sass:
   style: compressed
 
