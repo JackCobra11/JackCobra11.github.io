@@ -34,7 +34,7 @@
 
 [少女/stay night](https://jackcobra11.github.io/本子/Shoujo_staynight.html)
 
-[四宮家のメイドは床上手](https://jackcobra11.github.io/%E6%9C%AC%E5%AD%90/Shinomiya_no_Maid_wa_Tokojyouzu/267981_1.html)
+[四宮家のメイドは床上手](https://jackcobra11.github.io/%E6%9C%AC%E5%AD%90/Shinomiya_no_Maid_wa_Tokojyouzu/)
 
 
 
