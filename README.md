@@ -18,6 +18,8 @@
 
 ### Tools
 
+[Calculate the distance of Rhumb Lines](https://jackcobra11.github.io/RhumbLines.html)
+
 [CSGO autoexec.cfg](https://jackcobra11.github.io/autoexec.cfg)
 
 [FL Studio 20 KeyGen R2R](https://gitee.com/COBRA11/JackCobra/raw/master/FLStudio20KeyGenR2R.exe)
