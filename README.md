@@ -32,7 +32,7 @@
 
 [Win10 Activation Tool](https://jackcobra11.github.io/DigitalLicense.zip)
 
-### 本子
+### キモ
 
 [少女/stay night (TSFのFのほん その5)](https://jackcobra11.github.io/本子/Shoujo_staynight.html)
 
