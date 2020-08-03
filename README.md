@@ -42,7 +42,7 @@
 
 
 
-### Support or Contact
+### Support & Contact
 ```markdown
 EMAIL:2085967975@qq.com
 QQ:2085976795
