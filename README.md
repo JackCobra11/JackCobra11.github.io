@@ -36,6 +36,8 @@
 
 ### どうじんし
 
+[ドラえもん（哆啦AV梦）](https://jackcobra11.github.io/%E6%9C%AC%E5%AD%90/%E3%83%89%E3%83%A9%E3%81%88%E3%82%82%E3%82%93/)
+
 [Love Is Medicine(らぶ・いず・めでぃすん)](https://jackcobra11.github.io/%E6%9C%AC%E5%AD%90/LoveIsMedicine/)
 
 [少女/stay night (TSFのFのほん その5)](https://jackcobra11.github.io/本子/Shoujo_staynight.html)
