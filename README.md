@@ -38,6 +38,8 @@
 
 [ドラえもん（哆啦AV梦）](https://jackcobra11.github.io/%E6%9C%AC%E5%AD%90/%E3%83%89%E3%83%A9%E3%81%88%E3%82%82%E3%82%93/)
 
+[(C97) [あらと屋 (あらと安里)] 犬山たまきが馬並みちんぽなんかに負けるわけないだろ! (犬山たまき)](https://jackcobra11.github.io/%E6%9C%AC%E5%AD%90/(C97)%20[%E3%81%82%E3%82%89%E3%81%A8%E5%B1%8B%20(%E3%81%82%E3%82%89%E3%81%A8%E5%AE%89%E9%87%8C)]%20%E7%8A%AC%E5%B1%B1%E3%81%9F%E3%81%BE%E3%81%8D%E3%81%8C%E9%A6%AC%E4%B8%A6%E3%81%BF%E3%81%A1%E3%82%93%E3%81%BD%E3%81%AA%E3%82%93%E3%81%8B%E3%81%AB%E8%B2%A0%E3%81%91%E3%82%8B%E3%82%8F%E3%81%91%E3%81%AA%E3%81%84%E3%81%A0%E3%82%8D!%20(%E7%8A%AC%E5%B1%B1%E3%81%9F%E3%81%BE%E3%81%8D)/)
+
 [Love Is Medicine(らぶ・いず・めでぃすん)](https://jackcobra11.github.io/%E6%9C%AC%E5%AD%90/LoveIsMedicine/)
 
 [少女/stay night (TSFのFのほん その5)](https://jackcobra11.github.io/本子/Shoujo_staynight.html)
