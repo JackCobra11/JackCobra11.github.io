@@ -50,6 +50,8 @@
 
 [少女/stay night (TSFのFのほん その5)](https://jackcobra11.github.io/本子/Shoujo_staynight.html)
 
+[(こんにゃく) おねしょた和希先輩](https://jackcobra11.github.io/%E6%9C%AC%E5%AD%90/[%E3%81%93%E3%82%93%E3%81%AB%E3%82%83%E3%81%8F]%20%E3%81%8A%E3%81%AD%E3%81%97%E3%82%87%E3%81%9F%E5%92%8C%E5%B8%8C%E5%85%88%E8%BC%A9/)
+
 [四宮家のメイドは床上手](https://jackcobra11.github.io/%E6%9C%AC%E5%AD%90/Shinomiya_no_Maid_wa_Tokojyouzu/)
 
 
