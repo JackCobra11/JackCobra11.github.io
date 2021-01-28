@@ -52,6 +52,8 @@
 
 [少女/stay night (TSFのFのほん その5)](https://jackcobra11.github.io/本子/Shoujo_staynight.html)
 
+[[Dschinghis Khan no Tamanegi wa Ore no Yome (Taniguchi-san)] Kimi -Jeanne d'Arc- ni Naru 2.0 ](https://jackcobra11.github.io/%E6%9C%AC%E5%AD%90/[Dschinghis%20Khan%20no%20Tamanegi%20wa%20Ore%20no%20Yome%20(Taniguchi-san)]%20Kimi%20-Jeanne%20d'Arc-%20ni%20Naru%202.0/)
+
 [[こんにゃく] おねしょた和希先輩](https://jackcobra11.github.io/%E6%9C%AC%E5%AD%90/[%E3%81%93%E3%82%93%E3%81%AB%E3%82%83%E3%81%8F]%20%E3%81%8A%E3%81%AD%E3%81%97%E3%82%87%E3%81%9F%E5%92%8C%E5%B8%8C%E5%85%88%E8%BC%A9/)
 
 [四宮家のメイドは床上手](https://jackcobra11.github.io/%E6%9C%AC%E5%AD%90/Shinomiya_no_Maid_wa_Tokojyouzu/)
