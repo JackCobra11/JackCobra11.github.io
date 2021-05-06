@@ -16,9 +16,6 @@
 ### [AD]优质大学网络课程免费观看，注册邀请可获得20-30%佣金[AD] 
 [前往页面](https://www.lililili.net?ref=28)   https://www.lililili.net?ref=28
 
-### あーと
-[もいぱすさんの足裏](https://jackcobra11.github.io/もいぱす.png)
-
 ### Tools
 
 [Bandizip 6.26](https://jackcobra11.github.io/BANDIZIP-SETUP.EXE)
