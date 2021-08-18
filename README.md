@@ -37,7 +37,7 @@
 ### VIDEO
 [The REISEN 4](https://jackcobra11.github.io/Video/TheREISEN4.html)
 
-### [同人志](https://jackcobra11.github.io/doujinshi)
+### [同人志](https://jackcobra11.github.io/doujinshi/)
 
 [ドラえもん（哆啦AV梦）](https://jackcobra11.github.io/%E6%9C%AC%E5%AD%90/%E3%83%89%E3%83%A9%E3%81%88%E3%82%82%E3%82%93/)
 
