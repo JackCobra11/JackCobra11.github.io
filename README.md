@@ -44,7 +44,7 @@
 
 ### Support & Contact
 ```markdown
-EMAIL:2085967975@qq.com
+Twi:JackCobra
 QQ:2085976795
 Youtube:Jack Cobra
 Bilibili:COBRA11
