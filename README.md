@@ -9,7 +9,7 @@
 
 [Youtube](https://www.youtube.com/channel/UC6bz1csHtb0J1y1uUX1QbQQ)
 
-[Steam](http://steamcommunity.com/id/CNCOBRA11)
+[Steam](http://steamcommunity.com/id/JackCobra)
 
 [Gitee Repository](https://gitee.com/COBRA11/JackCobra/blob/master/README.md)
 
