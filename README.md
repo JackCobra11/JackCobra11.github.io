@@ -20,7 +20,7 @@
 
 [Bandizip 6.26](https://jackcobra11.github.io/BANDIZIP-SETUP.EXE)
 
-[Calculate the distance of Rhumb Lines](https://jackcobra11.github.io/RhumbLines.html)
+[Calculate the distance of Rhumb Lines](https://jackcobra11.github.io/RhumbLines/RhumbLines.html)
 
 [CSGO autoexec.cfg](https://jackcobra11.github.io/autoexec.cfg)
 
