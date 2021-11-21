@@ -13,8 +13,6 @@
 
 [Gitee Repository](https://gitee.com/COBRA11/JackCobra/blob/master/README.md)
 
-### [AD]优质大学网络课程免费观看，注册邀请可获得20-30%佣金[AD] 
-[前往页面](https://www.lililili.net?ref=28)   https://www.lililili.net?ref=28
 
 ### Tools
 
@@ -34,13 +32,18 @@
 
 [Win10 Activation Tool](https://jackcobra11.github.io/DigitalLicense.zip)
 
-### VIDEO
+### VIDEO TEST
 [The REISEN 4](https://jackcobra11.github.io/Video/TheREISEN4.html)
 
-### [同人志](https://jackcobra11.github.io/doujinshi/)
+### [DOUJIN](https://jackcobra11.github.io/doujinshi/)
 
 
-[数字图像处理用图](https://jackcobra11.github.io/%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86%E7%94%A8%E5%9B%BE/)
+### 自动签到BOT
+[京东京豆](https://github.com/JackCobra11/JD_Bot)
+
+[贴吧签到](https://github.com/JackCobra11/TieBaSign)
+
+[Hostloc](https://github.com/JackCobra11/hostloc-auto-get-points-1)
 
 ### Support & Contact
 ```markdown
