@@ -43,6 +43,8 @@
 
 [贴吧签到](https://github.com/JackCobra11/TieBaSign)
 
+[PicAcg](https://github.com/JackCobra11/picacomic-Punch)
+
 [Hostloc](https://github.com/JackCobra11/hostloc-auto-get-points-1)
 
 ### Support & Contact
