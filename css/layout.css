@@ -9,7 +9,7 @@ body{
 	font-size: 20px;
 	color: #ffffff;
 	background: #000102 url(../img/header.jpg) no-repeat;
-	background-size: 100%;
+	background-position:center center;
 	height: 180px;
 }
 #wrapper{
