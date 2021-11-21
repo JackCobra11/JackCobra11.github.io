@@ -1,6 +1,8 @@
 # Welcome to COBRA11's GitHub Pages
 
+[Go to Blog Page](https://jackcobra11.github.io/index.html)
 
+[前往博客主页](https://jackcobra11.github.io/index.html)
 
 ## My Channel
 [BiliBili](https://space.bilibili.com/21016018)
