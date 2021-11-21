@@ -28,7 +28,7 @@
 
 [Remove FLStudio License](https://jackcobra11.github.io/REMOVE_FLStudio_License.reg)
 
-[Steam Community 302](https://gitee.com/COBRA11/PULL/raw/master/steam302.zip)
+[Steam Community 302](https://jackcobra11.github.io/steam302.zip)
 
 [Win10 Activation Tool](https://jackcobra11.github.io/DigitalLicense.zip)
 
