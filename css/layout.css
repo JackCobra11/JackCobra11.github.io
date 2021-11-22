@@ -6,7 +6,7 @@
 /*设置整个页面的字体及文字颜色*/
 body{
 	font-family: arial,微软雅黑,serif;
-	font-size: 20px;
+	font-size: 14px;
 	color: #ffffff;
 	background: #000102 url(../img/header.jpg) no-repeat;
 	background-position:center center;
