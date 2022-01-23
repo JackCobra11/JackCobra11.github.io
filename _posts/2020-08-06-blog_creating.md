@@ -4,6 +4,7 @@ title: "搭建Github个人博客"
 date: 2020-08-06 
 description: "利用Github Pages，搭建自己的博客"
 tag: Github Pages
+comments: true
 ---   
 
 　　经过各种找资料，终于使用 Github Pages 搭建个人博客初步完成了，域名目前用得时 github 的。     
