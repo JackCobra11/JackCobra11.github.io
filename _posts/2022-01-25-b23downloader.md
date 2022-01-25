@@ -28,7 +28,7 @@ B23Downloader: 下载B站 视频/直播/漫画
 - **E:/tmp/天气之子 预告花絮 MV1 爱能做到的还有什么.flv**
 
 ### 漫画
-![](https://raw.githubusercontent.com/vooidzero/B23Downloader/main/README.assets/download-example-manga.png）
+![](https://github.com/vooidzero/B23Downloader/blob/main/README.assets/download-example-manga.png?raw=true）
 
 如上图，下载位置还是 **E:/tmp**，选中的两项分别下载到文件夹
 
