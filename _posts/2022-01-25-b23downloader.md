@@ -3,7 +3,7 @@ layout: post
 title: "B站下载器"
 date: 2022-01-25 
 description: "利用B23Downloader下载小破站视频"
-tag: Software
+tag: 软件
 ---   
 
 ## 仓库地址     
