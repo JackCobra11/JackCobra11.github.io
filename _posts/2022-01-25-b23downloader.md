@@ -20,7 +20,7 @@ B23Downloader: 下载B站 视频/直播/漫画
 ## 下载位置
 
 ### 视频类
-![](https://raw.githubusercontent.com/vooidzero/B23Downloader/main/README.assets/download-example-bangumi.png)
+![](https://github.com/vooidzero/B23Downloader/raw/main/README.assets/download-example-bangumi.png)
 
 在上图中，选择的下载位置为 **E:/tmp**，那么选中的两个视频分别下载到
 
@@ -29,7 +29,7 @@ B23Downloader: 下载B站 视频/直播/漫画
 
 ### 漫画
 
-![](https://raw.githubusercontent.com/vooidzero/B23Downloader/main/README.assets/download-example-manga.png)
+![](https://github.com/vooidzero/B23Downloader/raw/main/README.assets/download-example-manga.png)
 
 如上图，下载位置还是 **E:/tmp**，选中的两项分别下载到文件夹
 
@@ -41,7 +41,7 @@ B23Downloader: 下载B站 视频/直播/漫画
 > 目前删除漫画下载任务会粗暴地删除整个文件夹，如示例中的 E:/tmp/82 最终话/
 
 ### 直播
-![](https://raw.githubusercontent.com/vooidzero/B23Downloader/main/README.assets/download-example-live.png)
+![](https://github.com/vooidzero/B23Downloader/raw/main/README.assets/download-example-live.png)
 
 上图中，对话框的标题为 *【哔哩哔哩英雄联盟赛事】【直播】HLE vs LNG*，其命名规则为【<用户名>】<房间标题>，示例中用户名为 *哔哩哔哩英雄联盟赛事*，房间标题为 *【直播】HLE vs LNG*。
 
