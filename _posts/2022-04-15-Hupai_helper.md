@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "沪牌拍牌脚本"
-date: 2021-04-15 
+date: 2022-04-15 
 description: "基于PyAutoGUI的简易沪牌拍牌脚本"
 tag: 软件
 ---   
