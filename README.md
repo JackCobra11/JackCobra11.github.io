@@ -41,7 +41,7 @@
 
 
 ### 自动签到BOT
-[京东京豆](https://github.com/JackCobra11/JD_Bot)
+[京东京豆](https://github.com/JackCobra11/JDBot_Actions)
 
 [贴吧签到](https://github.com/JackCobra11/TieBaSign)
 
@@ -55,4 +55,5 @@ Twi:JackCobra
 QQ:2085976795
 Youtube:Jack Cobra
 Bilibili:COBRA11
+Email:jackcobra114@outlook.com
 ```
