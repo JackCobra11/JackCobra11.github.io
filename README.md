@@ -36,12 +36,9 @@
 
 ### VIDEO TEST
 [The REISEN 4](https://jackcobra11.github.io/Video/TheREISEN4.html)
-
-### [DOUJIN](https://jackcobra11.github.io/doujinshi/)
-
+[Игла](https://vid.cobra11.top/igla.mp4)
 
 ### 自动签到BOT
-[京东京豆](https://github.com/JackCobra11/JDBot_Actions)
 
 [贴吧签到](https://github.com/JackCobra11/TieBaSign)
 
@@ -52,8 +49,6 @@
 ### Support & Contact
 ```markdown
 Twi:JackCobra
-QQ:2085976795
 Youtube:Jack Cobra
-Bilibili:COBRA11
 Email:jackcobra114@outlook.com
 ```
