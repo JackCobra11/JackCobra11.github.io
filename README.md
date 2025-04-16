@@ -48,7 +48,5 @@
 
 ### Support & Contact
 ```markdown
-Twi:JackCobra
-Youtube:Jack Cobra
 Email:jackcobra114@outlook.com
 ```
